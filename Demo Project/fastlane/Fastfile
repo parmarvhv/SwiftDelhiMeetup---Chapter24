@@ -1,0 +1,5 @@
+import_from_git(
+  url: "git@github.com:ravindrasoni/Fastlane.git",
+  branch: "master",
+  path: "iOS/fastlane/Fastfile"
+)

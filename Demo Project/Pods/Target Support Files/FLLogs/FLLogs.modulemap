@@ -1,0 +1,6 @@
+framework module FLLogs {
+  umbrella header "FLLogs-umbrella.h"
+
+  export *
+  module * { export * }
+}
